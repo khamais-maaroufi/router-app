@@ -1,0 +1,16 @@
+.london {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.centralize {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.centralize h1 {
+  margin: 10px;
+  text-align: center;
+}
