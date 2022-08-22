@@ -15,13 +15,7 @@ function App() {
         index
         element={
           <div className="entry">
-            <p>
-              "Hello I'm Khamais Maaroufi a Software Developer specialized in
-              working with React Library I've developed This SPA web application
-              so i can practice the Client-side navigation using
-              react-route-dom, feel free to take a quick tour in between pages
-              that shows images from different countries 😉."
-            </p>
+            <p>"Hello"</p>
             <NavBar />
 
             <ToastContainer />
